@@ -29,10 +29,18 @@
  <p>&nbsp;</p>
 
 
- 📚**Courses and Certifications**📚
+ 📚**Courses and Certifications**📚:
  
- - Microsoft and Linkedin Data Analytics Certification.
- - MySQL Gold Badge Holder.
+ - [Microsoft and Linkedin Data Analytics Certification](https://drive.google.com/file/d/1o_sTF41t89-dP-96x5iWJNt9O1aDnYrz/view)
+ - MySQL Gold Badge Holder - [Hackerrank](https://www.hackerrank.com/akankshachikkud1)
+ - Learning Data Analytics - [Linkedin](https://drive.google.com/file/d/1vcBn6V6SviUhGpptKSblB8ACm-JT4A8E/view).
+ - Python for Data Science and Machine Learning Bootcamp - [Udemy](https://drive.google.com/file/d/1e_hekhrADJOQk1rtAnjpsxuAc5WeH90O/view)
+ - The Complete SQL Bootcamp 2022: Go from Zero to Hero - [Udemy](https://drive.google.com/file/d/16LXJcxa0ie31IiA1xoGJnjViZk08HD1I/view)
+ - Zero to Hero in Microsoft Excel: Complete Excel guide 2022 - [Udemy](https://drive.google.com/file/d/18wOMAIqH-pGcOo1X7LkrdLG0eK-VRZ38/view)
+ - SQL Advanced Certificate - [Hackerrank](https://www.hackerrank.com/certificates/5f8c857c9661)
+ - Data Analysis Essentials Using Excel - [Udemy](https://drive.google.com/file/d/1upW-oAUgxw2iiLJgkN3b8vVpOw2nQ7MC/view)
+ - Learning Data Analytics Part 2 Extending and Applying Core Knowledge - [Linkedin](https://drive.google.com/file/d/10LW71aJn9s8KRaa4RGLjW23q3wQejYMB/view)
+
  
  <p>&nbsp;</p>
  

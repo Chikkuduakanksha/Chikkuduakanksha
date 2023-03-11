@@ -13,7 +13,7 @@
   
 - 🔭 Analytical and solutions-driven data analyst with a data science and mathematical background versed in Excel, SQL, Python, Machine Learning, EDA, NLP, Power BI and Tableau. Passionate about using data to tell stories and uncover trends, patterns, and predictions. Seeking opportunities to take on more responsibilities and grow in Data Scientist roles.
 - 💬 Ask me about **Data Science**
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/Chikkuduakanksha)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Chikkuduakanksha?tab=repositories)
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/chikkuduakanksha)
 
 

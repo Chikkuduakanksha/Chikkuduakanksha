@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AKANKSHA</h1>
-<h3 align="center">DATA ANALYST</h3>
+<h3 align="center">DATA Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chikkuduakanksha&label=Profile%20views&color=0e75b6&style=flat" alt="Chikkuduakanksha" /> </p>

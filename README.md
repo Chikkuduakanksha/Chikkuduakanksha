@@ -42,8 +42,8 @@
 
  📚**Courses and Certifications**📚:
 
- - Microsoft Certified: Power BI Data Analyst Associate - [Microsoft]()
- - Google Cloud Certified Associate Cloud Engineer- [Google]()
+ - Microsoft Certified: Power BI Data Analyst Associate - [Microsoft](https://drive.google.com/file/d/1GpJoBWOKUqMcpf_9Aw9VmQAMZs5A0XvK/view?usp=sharing)
+ - Google Cloud Certified Associate Cloud Engineer- [Google](https://drive.google.com/file/d/17BncK8nSOl-DxIbRePwjeE90m02oUlfw/view?usp=sharing)
  - [Microsoft and Linkedin Data Analytics Certification](https://drive.google.com/file/d/1o_sTF41t89-dP-96x5iWJNt9O1aDnYrz/view)
  - MySQL Gold Badge Holder - [Hackerrank](https://www.hackerrank.com/akankshachikkud1)
  - Snowflake - [Udemy]()

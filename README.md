@@ -11,8 +11,8 @@
 
 ✨**About Me in 30 secs**✨
   
-- 🔭 Analytical and solutions-driven data analyst with a data science and mathematical background versed in Excel, SQL, Python, Machine Learning, EDA, NLP, Power BI and Tableau. Passionate about using data to tell stories and uncover trends, patterns, and predictions. Seeking opportunities to take on more responsibilities and grow in Data Scientist roles.
-- 💬 Ask me about **Data Science**
+- 🔭 As a Data Engineer, I specialize in designing, developing, and optimizing complex SQL queries to transform and extract insights from large datasets. My work focuses on building and maintaining scalable ETL pipelines to ingest, process, and load data from various sources into our data lake, data warehouse, and multiple targets, ensuring efficient and reliable data integration.
+- 💬 Ask me about **Data Engineer**
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Chikkuduakanksha?tab=repositories)
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/chikkuduakanksha)
 
@@ -21,13 +21,20 @@
 
 
 💡**TECHNICAL EXPERTISE**💡:
-- **Programming Language:** Python, PHP, Html, CSS.
-- **Databases:** SQL, MySQL, Microsoft SQL Server (SSMS).
-- **Data Visualization:** Excel, Tableau, Power BI.
-- **Machine Learning Algorithms:** Linear Regression, Logistic Regression, Naïve bayes, Decision tree, Random forest, AdaBoost, Stacking, KNN, K-Means.
-- **Libraries:** NumPy, Pandas, SQLAlchemy, SciPy, Scikit-learn, Matplotlib, Seaborn, NLTK.
-- **Tools & Platforms:** JUPYTER notebook, Spyder, Dbeaver, SSMS, Apache net beans, Putty, CyberArk,. MySQL workbench.
-- **OS:** Linux, Windows.
+- 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: Python, SQL, Shell Script
+- 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MYSQL, Oracle, Postgresql
+- 𝗗𝗮𝘁𝗮𝘄𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲: Snowflake.
+- 𝗕𝗶𝗴𝗱𝗮𝘁𝗮 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Spark, Hadoop, Hive
+- 𝗘𝗧𝗟 𝘁𝗼𝗼𝗹: Informatica.
+- 𝗖𝗹𝗼𝘂𝗱: AWS(EMR, S3, EC2, IAM).
+- 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗕𝘂𝗶𝗹𝗱 𝘁𝗼𝗼𝗹𝘀: GitHub, Jenkins, Git, CL/CD pipelines.
+- 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴: ETL, Data Warehousing, data ingestion.
+- 𝗢𝗦: Linux, Windows.
+- 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: NumPy, Pandas
+- 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Excel, Tableau, Power BI
+- 𝗧𝗼𝗼𝗹𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀: Dbeaver, Putty, CyberArk, MySQL workbench, Oracle SQL Developer, Visual Studio, Jupyter notebook.
+- 𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝘆: Agile.
+- 𝗧𝗶𝗰𝗸𝗲𝘁𝗶𝗻𝗴 𝘁𝗼𝗼𝗹: Jira and ServiceNow.
 
 
  <p>&nbsp;</p>

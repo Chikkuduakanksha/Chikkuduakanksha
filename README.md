@@ -1,4 +1,4 @@
-![logo](https://github.com/Chikkuduakanksha/Chikkuduakanksha/blob/main/CHIKKUDU%20AKANKSHA.png)
+![logo](https://github.com/Chikkuduakanksha/Chikkuduakanksha/blob/main/Akki.png)
 
 
 <h1 align="center">Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AKANKSHA</h1>

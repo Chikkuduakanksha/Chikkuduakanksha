@@ -22,13 +22,11 @@
 
 💡**TECHNICAL EXPERTISE**💡:
 - 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: Python, SQL, Shell Script
+- 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴: ETL, Data Warehousing, data ingestion, Snowflake.
 - 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MYSQL, Oracle, Postgresql
-- 𝗗𝗮𝘁𝗮𝘄𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲: Snowflake.
 - 𝗕𝗶𝗴𝗱𝗮𝘁𝗮 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Spark, Hadoop, Hive
-- 𝗘𝗧𝗟 𝘁𝗼𝗼𝗹: Informatica.
 - 𝗖𝗹𝗼𝘂𝗱: AWS(EMR, S3, EC2, IAM).
 - 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗕𝘂𝗶𝗹𝗱 𝘁𝗼𝗼𝗹𝘀: GitHub, Jenkins, Git, CL/CD pipelines.
-- 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴: ETL, Data Warehousing, data ingestion.
 - 𝗢𝗦: Linux, Windows.
 - 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: NumPy, Pandas
 - 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Excel, Tableau, Power BI
